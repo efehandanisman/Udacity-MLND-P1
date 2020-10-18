@@ -1,2 +1,3 @@
-# udacitymlnd
-project-1
+# Udacity Machine Learning Nanodegree Project-1
+
+Deploying a sentiment analysis model.
